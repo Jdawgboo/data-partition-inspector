@@ -1,2 +1,8 @@
 # data-partition-inspector
-Inspect labeled data partitions for identity overlap and class balance changes.
+
+Inspect named data partitions for shared record identities.
+
+```bash
+python -m unittest -v
+```
+MIT licensed.
